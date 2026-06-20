@@ -174,7 +174,7 @@ The SQL file includes realistic sample data:
 
 ## Authors
 
-**Leonardo Francu** & **Ciprian Giannerini**
+**Leonardo Cosmin Francu** & **Fabio Giannerini**
 Corso di Laurea in Informatica — Università degli Studi di Torino
 A.A. 2023/2024 · Group project (2 members)
 
